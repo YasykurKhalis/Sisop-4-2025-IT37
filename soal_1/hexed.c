@@ -64,13 +64,13 @@ int main() {
         return 1;
     } // a
 
+    // soal b
     // cek folder image, buat jika belum ada
     struct stat st = {0};
     if (stat("image", &st) == -1) {
         mkdir("image", 0755);
     }
 
-    // soal b
     // buka folder anomali
     DIR *dir = opendir("anomali");
     if (!dir) {
