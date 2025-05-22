@@ -182,7 +182,7 @@ Penjelasan kode:
 
 Dokumentasi:
 
-Hasil Compile:
+Terminal:
 
 ![Screenshot 2025-05-22 233121](https://github.com/user-attachments/assets/1853bb62-f10b-4c91-b817-59c4ac5dfbcf)
 
